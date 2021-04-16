@@ -1,4 +1,4 @@
-# dating-app
+# Dating App
 
 Scan this QR Code with Expo to check Dating App on your phone.
 
